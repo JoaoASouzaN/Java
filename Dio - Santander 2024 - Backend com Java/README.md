@@ -11,7 +11,7 @@ Boas-vindas à trilha de Back-end Java do Santander Bootcamp 2024! Aprenda desde
 - Soft Skills na Era Ágil: Conectando Pessoas e Oportunidades.
 - Atenção às etapas do programa Santander Bootcamp 2024:
 
-## Inscreva-se na sua trilha escolhida até dia 08/04;
+## Inscreva-se na sua trilha escolhida até dia 08/04:
 Confirme se você foi um dos aprovados para participar no dia 15/04;
 O acesso ao bootcamp aqui na DIO será liberado para todos os aprovados no dia 23/04;
 Estude e faça todas as atividades de 24/04 até 08/07 para de graduar e ganhar seu certificado!
