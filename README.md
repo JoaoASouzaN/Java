@@ -1,1 +1,1 @@
-👨‍💻 Projetos, desafios, exercicios em Java.
+👨‍💻 Projetos, desafios e exercicios em Java.
