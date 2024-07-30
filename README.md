@@ -7,6 +7,7 @@
     1. [Facade](https://github.com/JoaoASouzaN/Java/tree/main/ConceitoDesignPatternsFacade)
     2. [Singleton](https://github.com/JoaoASouzaN/Java/tree/main/ConceitoDesignPatternsSingleton)
     3. [Strategy](https://github.com/JoaoASouzaN/Java/tree/main/ConceitoDesignPatternsStrategy)
+---
  
 - [Dio - Conta Banco](https://github.com/JoaoASouzaN/Java/tree/main/Dio%20-%20ContaBanco/src)
 - [Dio - Santander 2024](https://github.com/JoaoASouzaN/Java/tree/main/Dio%20-%20Santander%202024%20-%20Backend%20com%20Java)
